@@ -1,0 +1,2 @@
+2025-11-21 19:04:49.495113 | {"label": 0, "risk": 3.04, "ml_score": 0.592, "spf": "SPF PASS", "dmarc": "DMARC PASS", "rep_score": 0, "content_score": 1, "urls": ["https://secure-bofa-login.com/verify."]}
+2025-11-21 19:06:10.865597 | {"label": 0, "risk": 4.06, "ml_score": 0.5881, "spf": "SPF PASS", "dmarc": "DMARC PASS", "rep_score": 0, "content_score": 2, "urls": ["https://appleid-security-check.com/login"]}
